@@ -68,7 +68,7 @@ Ensure you have the following packages installed in your R environment:
 install.packages(c("tidyverse", "patchwork", "ggpubr"))
 install.packages('vegan', repos = c('[https://vegandevs.r-universe.dev](https://vegandevs.r-universe.dev)','[https://cloud.r-project.org](https://cloud.r-project.org)'))
 ``` 
-**2. Execute the Scripts **
+**2. Execute the Scripts**
 * Run ```ex1.R``` to download the datasets directly from the Borenstein Lab repository and generate the initial EDA plots.
 * Run ```ex2_and_3.R``` to compute diversity metrics, run statistical tests, and generate the comparative plots. Outputs will be saved automatically in your working directory.
 ---
