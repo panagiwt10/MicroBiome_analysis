@@ -41,7 +41,7 @@ Alpha diversity evaluates the microbial diversity *within* a single sample. We f
   * For **Richness**, the test yielded p = 0.58.
   
   <img src="diagrams/Richness_Yachida.png" width="600" alt="Alpha Diversity - Richness">
- 
+  
   * For the **Shannon Index**, the test yielded p = 0.19.
 
   <img src="diagrams/Shannon_Yachida.png" width="600" alt="Alpha Diversity - Shannon">
